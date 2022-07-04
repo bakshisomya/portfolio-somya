@@ -1,9 +1,9 @@
 import React from 'react'
 import './Landing.css';
-import dove from '../assets/images/dove.png'
-import somyaimg from '../assets/images/Mask Group 6.png'
+// import dove from '../assets/images/dove.png'
+// import somyaimg from '../assets/images/Mask Group 6.png'
 import duck from '../assets/images/Mask Group 5.png'
-import { gsap,Power3 } from "gsap";
+// import { gsap,Power3 } from "gsap";
 
 function Landing() {
   return (
